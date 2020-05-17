@@ -1484,6 +1484,9 @@ a {
     margin-left: 50px;
     display: block;
   }
+  .middle-section .product-listing-section .product-right-content {
+    padding: 0;
+  }
 }
 
 /* Portrait */
