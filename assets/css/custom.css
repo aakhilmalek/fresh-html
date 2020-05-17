@@ -1490,6 +1490,15 @@ a {
   .middle-section .product-listing-section .product-right-content {
     padding: 0;
   }
+  .footer-section .copy-right-text p {
+    text-align: center;
+    margin-bottom: 10px;
+  }
+  .footer-section .copy-right-text .social-media {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+  }
 }
 
 /* Portrait */
