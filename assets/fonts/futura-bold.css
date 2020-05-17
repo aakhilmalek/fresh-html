@@ -1,0 +1,7 @@
+@font-face {
+	font-family: 'Conv_Futura Bold';
+	src: url('Futura Bold.eot');
+	src: local('☺'), url('Futura Bold.woff') format('woff'), url('Futura Bold.ttf') format('truetype'), url('Futura Bold.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}

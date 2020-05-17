@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'FuturaBT-MediumItalic';
+  src: url('FuturaBT-MediumItalic.eot?#iefix') format('embedded-opentype'),  url('FuturaBT-MediumItalic.otf')  format('opentype'),
+	     url('FuturaBT-MediumItalic.woff') format('woff'), url('FuturaBT-MediumItalic.ttf')  format('truetype'), url('FuturaBT-MediumItalic.svg#FuturaBT-MediumItalic') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
