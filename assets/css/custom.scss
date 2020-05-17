@@ -1103,6 +1103,26 @@ a {color: #1D61F6;}
     .closebtn {display: block !important; color: #1D61F6; text-decoration: none;}
     .closebtn:hover {display: block; color: #1D61F6; text-decoration: none;}
     .sidenav-new-menu .closebtn {position: absolute;top: 0;right: 25px;font-size: 36px;margin-left: 50px; display: block; }
+
+
+// middle section start here
+
+.middle-section {
+
+    .login-section {
+        .login-box {
+            .login-box-inner {
+                padding: 40px 20px;
+            }
+        }
+    }
+    .product-listing-section {
+        .product-right-content{
+            padding: 0;
+        }
+    }
+}
+
 }
 
 
