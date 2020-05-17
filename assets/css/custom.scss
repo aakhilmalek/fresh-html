@@ -1108,6 +1108,14 @@ a {color: #1D61F6;}
 // middle section start here
 
 .middle-section {
+
+    .login-section {
+        .login-box {
+            .login-box-inner {
+                padding: 40px 20px;
+            }
+        }
+    }
     .product-listing-section {
         .product-right-content{
             padding: 0;
