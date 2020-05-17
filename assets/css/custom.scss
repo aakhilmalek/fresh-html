@@ -1123,6 +1123,19 @@ a {color: #1D61F6;}
     }
 }
 
+.footer-section .copy-right-text p {
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.footer-section {
+    .copy-right-text{
+        .social-media {
+            justify-content: center;;
+        }
+    }
+}
+
 }
 
 
